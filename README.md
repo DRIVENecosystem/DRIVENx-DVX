@@ -1,7 +1,5 @@
 # DRIVENx
 
-
-
 ![](.gitbook/assets/twitter-cover.png)
 
 ## Background
@@ -28,7 +26,7 @@ DRIVEN’s primary goal is to bridge the needs of everyday businesses from your 
 
 ## What is the mission of the DRIVENx?
 
-We are creating a platform in which businesses can carry out all of their existing transactions with respect to their customer's supply chain, via cryptocurrency. 
+We are creating a platform in which businesses can carry out all of their existing transactions with respect to their customer's supply chain, via cryptocurrency.
 
 The platform will enable a business to directly pay or receive funds for goods and/or services without having to convert their cryptocurrency to fiat currency, in turn avoiding costly foreign exchange fees and the associated price fluctuations. They can pay or receive the cryptocurrency of their choosing and transact in a peer-to-peer manner using our service as the intermediary broker for the transactions.
 

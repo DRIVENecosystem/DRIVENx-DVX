@@ -2,13 +2,13 @@
 
 ## What is DRIVENx Token?
 
-**DRIVENx** token is an updated deflationary version of the DRIVENprotocol token. It is an entirely new smart contract. It is the DRIVEN Ecosystem's primary token. On our DRIVEN branded exchange, DRIVENx grants access to yield farming and staking. 
+**DRIVENx** token is an updated deflationary version of the DRIVENprotocol token. It is an entirely new smart contract. It is the DRIVEN Ecosystem's primary token. On our DRIVEN branded exchange, DRIVENx grants access to yield farming and staking.
 
 Token holders of the DRIVENprotocol had their tokens migrated in a 1:1 ratio \(only tokens they had before the 1st of June\)
 
 DRIVENx was **launched on June 17th**. A **fair-launch** for the community was our priority. Therefore, DRIVENx started with a market cap of only $100,000.
 
-**DRIVENx – Total Supply -** 100,000,000,000,000,000 ****
+**DRIVENx – Total Supply -** 100,000,000,000,000,000 _\*\*_
 
 ## **DRIVENx Tokenomics**
 
@@ -32,13 +32,7 @@ DRIVENx is a **deflationary token**, which means that its total supply decreases
 
 \*\*\*\*
 
-
-
-
-
 \*\*\*\*
-
- ****
 
 \*\*\*\*
 

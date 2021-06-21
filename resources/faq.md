@@ -2,7 +2,7 @@
 
 ## What is DRIVENx token?
 
-DRIVENx is the primary token in the DRIVEN ecosystem. It is a BEP20 token released on the Binance Smart Chain Network in June of 2021. Our focus is on bridging the gaps between cryptocurrency and standard FIAT-based business as usual. 
+DRIVENx is the primary token in the DRIVEN ecosystem. It is a BEP20 token released on the Binance Smart Chain Network in June of 2021. Our focus is on bridging the gaps between cryptocurrency and standard FIAT-based business as usual.
 
 DRIVENx token is a deflationary version of the DRIVENprotocol token. DRIVENx is created specifically for our DRIVEN-branded exchange and will allow us to use liquidity mining and staking functions on it.
 
@@ -14,7 +14,7 @@ The platform will allow businesses to pay or receive funds for goods and/or serv
 
 They can use our service as an intermediary broker to pay or receive the cryptocurrency of their choice and transact in a peer-to-peer manner.
 
-## What is the B2B platform? 
+## What is the B2B platform?
 
 The DRIVENtrade platform will serve as a gathering place for business owners looking to transition from the stone age of web 1.0 style online transacting to the modern methodology of using digital encrypted currency to stay current with the latest tech trends and future standards.
 
@@ -36,17 +36,17 @@ Staking is the process of actively engaging in transaction validation on a proof
 
 ## **How to use and connect MetaMask to BSC and DRIVENxchange?**
 
-Here's a step-by-step guide to creating and connecting a MetaMask wallet to Binance Smart Chain: [https://docs.binance.org/smart-chain/wallet/metamask.html](https://docs.binance.org/smart-chain/wallet/metamask.html) 
+Here's a step-by-step guide to creating and connecting a MetaMask wallet to Binance Smart Chain: [https://docs.binance.org/smart-chain/wallet/metamask.html](https://docs.binance.org/smart-chain/wallet/metamask.html)
 
 When your wallet is properly configured, launch the **DRIVENxchange** and select “Connect” at the top of the screen.
 
 ## DRIVENprotocol to DRIVENx migration?
 
-Every holder who purchased DRIVENprotocol before June 1st will receive a 1:1 ratio migration to DRIVENx.   
-  
+Every holder who purchased DRIVENprotocol before June 1st will receive a 1:1 ratio migration to DRIVENx.
+
 At the time of DRIVENx's launch, the top 100 holders received 15% of DRIVENprotocol tokens migrated to DRIVENx, while everyone else received 20%.
 
-Every 7 days DRIVENprotocol holders will get 10% migrated until we migrate the entire amount. 
+Every 7 days DRIVENprotocol holders will get 10% migrated until we migrate the entire amount.
 
 DRIVENprotocol token holders are expected to maintain their tokens during the migration process; otherwise, your tokens will not be transferred to DRIVENx.
 
@@ -56,16 +56,15 @@ NOTICE: If you encountered any issues during the DVP to DVX migration, please fi
 
 ## How do I make DRIVENx visible in TrustWallet?
 
-You must add DRIVENx token to TrustWallet as a custom token in order to see the amount of DRIVENx tokens you own.  
-  
+You must add DRIVENx token to TrustWallet as a custom token in order to see the amount of DRIVENx tokens you own.
+
 Here is our guide on how to import DRIVENx as a custom token in TrustWallet.
 
 {% file src="../.gitbook/assets/rotatorv2\_4.mp4" caption="TrustWallet Custom Token Guide" %}
 
 ## **Does DRIVENx have a whitepaper?**
 
-It is presently under production, and we will tell you via the website once it is complete! Meanwhile, you may read our litepaper here:  
-
+It is presently under production, and we will tell you via the website once it is complete! Meanwhile, you may read our litepaper here:
 
 {% file src="../.gitbook/assets/litepaper-drivenprotocol.pdf" caption="DRIVENx Litepaper" %}
 

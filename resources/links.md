@@ -12,7 +12,7 @@
 
 **Github**: [https://github.com/DRIVENx](https://github.com/DRIVENx)
 
-**Youtube**:  [https://www.youtube.com/channel/UCjXOo\_FZrk7cL6NqFvwfluw](https://www.youtube.com/channel/UCjXOo_FZrk7cL6NqFvwfluw)
+**Youtube**: [https://www.youtube.com/channel/UCjXOo\_FZrk7cL6NqFvwfluw](https://www.youtube.com/channel/UCjXOo_FZrk7cL6NqFvwfluw)
 
 **Instagram:** [https://www.instagram.com/drivenxtoken/](https://www.instagram.com/drivenxtoken/)
 
