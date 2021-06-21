@@ -1,6 +1,6 @@
 # DRIVENx
 
-![](.gitbook/assets/twitter-cover.png)
+![](.gitbook/assets/photo_202…59-42.jpg)
 
 ## Background
 
