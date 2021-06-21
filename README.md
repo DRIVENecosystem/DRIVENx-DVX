@@ -15,7 +15,7 @@ Contain low transaction costs as low as one cent and high performance, with a ne
 * Binance ecosystem that finances and bootstraps numerous DeFi projects
 * A growing ecosystem of millions of users across Binance.com and Binance DEX
 * BSC already collaborates with a network of important crypto projects.
-* Contain low transaction costs as low as one cent
+* Low transaction costs as low as one cent
 * High performance with a network that can generate a block every 3 seconds.
 
 ## What is DRIVENx?
