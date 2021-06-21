@@ -1,6 +1,6 @@
 # DRIVENx
 
-![](.gitbook/assets/photo_202…59-42.jpg)
+![](https://github.com/DRIVENx/DRIVENx/tree/394afdd8cdbfdf55b625bc248eaad6755a37ea25/.gitbook/assets/photo_202…59-42.jpg)
 
 ## Background
 
