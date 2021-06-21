@@ -19,7 +19,7 @@ DRIVENx is a **deflationary token**, which means that its total supply decreases
 * **3.5% added to liquidity**
 * **2.0% burned**
 * **1.0% redistributed to holders**
-* 1.0% **placed in development wallet**
+* **1.0% placed in development wallet**
 
 ## Supply
 
