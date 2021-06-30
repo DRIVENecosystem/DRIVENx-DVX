@@ -14,7 +14,7 @@
 
 **Youtube**:  [https://www.youtube.com/channel/UCjXOo\_FZrk7cL6NqFvwfluw](https://www.youtube.com/channel/UCjXOo_FZrk7cL6NqFvwfluw)
 
-**Instagram:** [https://www.instagram.com/drivenxtoken/](https://www.instagram.com/drivenxtoken/)
+**Instagram:** [https://www.instagram.com/drivenprotocol/](https://www.instagram.com/drivenprotocol/)
 
 **Facebook:** [https://www.facebook.com/DRIVENprotocol](https://www.facebook.com/DRIVENprotocol)
 

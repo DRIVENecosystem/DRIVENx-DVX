@@ -73,3 +73,7 @@ It is presently under production, and we will tell you via the website once it i
 
 In the near future, DRIVENx will most likely be listed on additional exchanges. We will notify you as soon as we get more information! Our initial objective is to get listed on CoinMarketCap and CoinGecko.
 
+## How to use DRIVENxchange?
+
+Our YouTube channel will be updated on a regular basis with fresh instructions, so be sure to subscribe. If you have any further questions, please join us on Telegram or Discord.
+
