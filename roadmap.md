@@ -2,9 +2,13 @@
 
 ## 0 - 5,000 holders
 
-✅ DRIVENx and DRIVENxchange launch
+✅ DRIVENx launch
 
 ✅ Begin the migration and upload the logo to TrustWallet
+
+✅ DRIVENxchange launch
+
+✅ Litepaper publication
 
 ⬜ The first marketing push
 
