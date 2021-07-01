@@ -67,7 +67,7 @@ Here is our guide on how to import DRIVENx as a custom token in TrustWallet.
 It is presently under production, and we will tell you via the website once it is complete! Meanwhile, you may read our litepaper here:  
 
 
-{% file src="../.gitbook/assets/litepaper-drivenprotocol.pdf" caption="DRIVENx Litepaper" %}
+{% file src="../.gitbook/assets/drivenx-litepaper.pdf" caption="DRIVENx - litepaper" %}
 
 ## Will DRIVENx be listed on other exchanges?
 
