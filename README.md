@@ -18,5 +18,5 @@ Contain low transaction costs as low as one cent and high performance, with a ne
 
 ## Mission
 
-DRIVENecosystem is a collection of initiatives that will develop intelligent applications to integrate cryptocurrencies into the real world.
+Our goal is to create intelligent applications that will employ cryptocurrencies, giving them a real-world usecase rather than just a profit motive.
 
