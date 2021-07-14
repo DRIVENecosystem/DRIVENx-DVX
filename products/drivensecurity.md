@@ -4,7 +4,7 @@
 
 Cryptocurrency is currently in a gold rush stage, with many new individuals entering the market, and whenever new people enter a market or space, there will always be others looking to take advantage of those new entrants. This is an undesirable occurrence in crypto space, but the reality is that it is quite simple due to the decentralized nature of cryptocurrency, people can steal your money in some instances, therefore we're here to help prevent that as much as we can using **DRIVENsecurity.**
 
-As part of the DRIVENecosystem, DRIVENsecurity is a service will provide fundamental and technical analyses for DeFi projects.
+DRIVENsecurity is a service that delivers fundamental and technical analysis for DeFi projects as part of the DRIVENEcosystem.
 
 ## Disclaimer
 
