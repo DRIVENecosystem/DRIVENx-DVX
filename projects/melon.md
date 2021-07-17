@@ -36,25 +36,29 @@ On each transaction, 1.5 percent of the built-in tokenomics is transferred into 
 
 ⬜ First marketing push
 
-⬜ More donations 
+⬜ Additional donations for people with breast cancer
 
 ⬜ Influencer marketing
 
 ⬜ TechRate smart contract audit
 
+⬜ Lottery system launch
+
 ⬜ Implementation of Melon logo in TrustWallet
 
 ⬜ Merch store launch
+
+⬜ Apply for CoinGecko and CoinMarketCap listings
 
 ### 5,000 - 10,000 holders
 
 ⬜ Donations platform beta testing phase
 
-⬜ Apply for CoinGecko and CoinMarketCap
+⬜ Apply for additional exchange listings
 
-⬜ Charity events
+⬜ Host charity events
 
-⬜ The documentation phase for the crypto donations platform
+⬜ Documentation phase for the crypto donations platform
 
 ### **Final purpose \(25,000+ holders\)**
 
