@@ -18,5 +18,17 @@ Contain low transaction costs as low as one cent and high performance, with a ne
 
 ## Mission
 
-Our goal is to create intelligent applications that will employ cryptocurrencies, giving them a real-world usecase rather than just a profit motive.
+DRIVENecosystem \(or just DRIVEN\) is a small start-up that aims to integrate cryptocurrencies into everyday life through the use of smart applications. Our primary goal is to make cryptocurrency as simple to use as FIAT.
+
+## Philosophy and vision
+
+Our team is guided by core principles such as honesty, integrity, respect, ambition, and fun. By doing so, we build a strong community with the same values as us through time and with a lot of effort - a community that makes us proud, trusts us, and knows us for who we are.
+
+Our goal is to build a strong DeFi ecosystem where individuals can use cryptocurrency to buy or trade goods and services.
+
+## Goals
+
+Our short-term goal is to raise awareness/exposure for the DRIVENecosystem projects: DRIVENx \(DVX\), Melon Token \($MLN\), and DRIVENsecurity \(Fundamental and technical analysis for DeFi projects\); and to execute on our promises every day in order to earn greater trust and authenticity.
+
+Our long-term goal is to be a group of legal businesses with headquarters in the United States, Croatia, and Romania that transform the way people use cryptocurrency \(not just for profit\).
 
