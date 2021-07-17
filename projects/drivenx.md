@@ -32,6 +32,8 @@ The platform will enable a business to directly pay or receive funds for goods a
 
 ✅ Litepaper publication
 
+✅ DRIVENsecurity launch
+
 ⬜ First marketing push
 
 ⬜ TechRate smart contract audit
