@@ -40,19 +40,7 @@ Here's a step-by-step guide to creating and connecting a MetaMask wallet to Bina
 
 When your wallet is properly configured, launch the **DRIVENxchange** and select “Connect” at the top of the screen.
 
-## DRIVENprotocol to DRIVENx migration?
 
-Every holder who purchased DRIVENprotocol before June 1st will receive a 1:1 ratio migration to DRIVENx.   
-  
-At the time of DRIVENx's launch, the top 100 holders received 15% of DRIVENprotocol tokens migrated to DRIVENx, while everyone else received 20%.
-
-Every 7 days DRIVENprotocol holders will get 10% migrated until we migrate the entire amount. 
-
-DRIVENprotocol token holders are expected to maintain their tokens during the migration process; otherwise, your tokens will not be transferred to DRIVENx.
-
-NOTICE: If you encountered any issues during the DVP to DVX migration, please fill out this form and we will contact you via Telegram.
-
-[https://forms.gle/GSmd2ZySn6XzvRuU8](https://forms.gle/GSmd2ZySn6XzvRuU8)
 
 ## How do I make DRIVENx visible in TrustWallet?
 
