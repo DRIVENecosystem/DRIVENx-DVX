@@ -10,7 +10,7 @@ Melon was **launched on** **May 28th 2021.** A **fair-launch** for the community
 
 ## **Melon Tokenomics**
 
-**Melon** is a **deflationary token**, which means that its total supply decreases with each token transaction. As with every transfer, a portion of the transferred amount is burned, added to liquidity, redistributed to holders, and placed in the charity wallet.
+Melon ****is a **deflationary token**, which means that its total supply decreases with each token transaction. As with every transfer, a portion of the transferred amount is burned, added to liquidity pool, redistributed to holders, and placed in the charity wallet.
 
 ![](../.gitbook/assets/frame-62.jpg)
 
