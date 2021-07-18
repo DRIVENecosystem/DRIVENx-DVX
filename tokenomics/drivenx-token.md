@@ -28,9 +28,17 @@ DRIVENx is a **deflationary token**, which means that its total supply decreases
 **100,000,000,000,000,000 - DRIVENx – Total Supply**
 
 * 50,000,000,000,000,000 **– Migrated to DRIVENprotocol Holders \(50%\)**
-* 23,000,000,000,000,000 **– Liquidity Mining and Staking Supply \(23%\)**
+* 19,000,000,000,000,000 **– Liquidity Mining and Staking Supply \(19%\)**
 * 10,000,000,000,000,000 **– Burned Initially \(10%\)**
 * 3,500,000,000,000,000 **– Development Wallet \(3.5%\)**
+
+**Mining and staking supply address:** `0x98de08c254597963bc3e024fb477b72b48c5380c`
+
+**Development wallet address:** `0xad5284df1ae5d8c860112e8e02e112a9caa7d66f`
+
+\*\*\*\*
+
+\*\*\*\*
 
 \*\*\*\*
 
