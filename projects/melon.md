@@ -20,7 +20,7 @@ In addition, a portion of the prize-poll \(included within the lottery platform\
 
 We have the ability to make a genuine difference for the larger good, rather than just for ourselves. We remind ourselves of our responsibility to make the world a better place for everyone by donating to those in need.
 
-On each transaction, 1.5 percent of the built-in tokenomics is transferred into a charity wallet, from which we donate to women with breast cancer. So far, we have made six donations to people, which you can find  on our [website](https://melontokenbsc.com/).
+On each transaction, 1.5 percent of the built-in tokenomics is transferred into a charity wallet, from which we donate to women with breast cancer. So far, we have made six donations to people, which you can find on our [website](https://melontokenbsc.com/).
 
 ## Competitive Advantage
 
