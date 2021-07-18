@@ -22,6 +22,10 @@ We have the ability to make a genuine difference for the larger good, rather tha
 
 On each transaction, 1.5 percent of the built-in tokenomics is transferred into a charity wallet, from which we donate to women with breast cancer. So far, we have made six donations to people, which you can find  on our [website](https://melontokenbsc.com/).
 
+## Competitive Advantage
+
+To avoid selling $MLN to make donations, we will build a crypto donations platform where users can donate in BTC, BNB, ETH, and BEP20 tokens. A tiny portion of each transaction will be utilized to purchase $MLN back.
+
 ## Roadmap
 
 ### **0 - 1,000 holders**
