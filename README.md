@@ -32,3 +32,7 @@ Our short-term goal is to raise awareness/exposure for the DRIVENecosystem proje
 
 Our long-term goal is to be a group of legal businesses with headquarters in the United States, Croatia, and Romania that transform the way people use cryptocurrency \(not just for profit\).
 
+## Legal structure
+
+DRIVENecosystem is not yet a legitimate business model. We intend to form an LLC before the end of the current calendar year \(2021\).
+
