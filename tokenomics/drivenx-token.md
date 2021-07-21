@@ -36,7 +36,7 @@ DRIVENx is a **deflationary token**, which means that its total supply decreases
 
 **Development wallet address:** `0xad5284df1ae5d8c860112e8e02e112a9caa7d66f`
 
-\*\*\*\*
+**Marketing wallet address:** `0xc00f8776e5331f09f47c062f106c3c98c2a6c30d`
 
 \*\*\*\*
 
