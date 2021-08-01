@@ -1,3 +1,7 @@
+---
+description: Melon tokenomics & token distribution
+---
+
 # Melon Token
 
 **Melon \($MLN\)** is a deflationary and community-driven token that aids women all over the world in their fight against breast cancer. It is the DRIVENecosystem's charity token.

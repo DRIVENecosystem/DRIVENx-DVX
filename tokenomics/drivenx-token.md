@@ -1,3 +1,7 @@
+---
+description: DRIVENx tokenomics & token distribution
+---
+
 # DRIVENx Token
 
 ## What is DRIVENx Token?
