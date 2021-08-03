@@ -12,11 +12,11 @@ DRIVENsecurity is a service that delivers fundamental and technical analysis for
 
 Accepting a project audit can be viewed as a sign of confidence and is typically the first indicator of trust for a project, but it does not guarantee that a team will not remove all liquidity, sell tokens, or engage in any other type of fraud. There is also no method to restrict private sale holders from selling their tokens. It is ultimately your obligation to read through all documentation, social media posts, and contract code for each particular project in order to draw your own conclusions and define your own risk tolerance.
 
-DRIVENsecurity accepts no responsibility for any losses or encourages speculative investments. This audit's material is given solely for informational reasons and should not be construed as investment advice.
+DRIVENsecurity accepts no responsibility for any losses or speculative investments. This audit's material is given solely for informational reasons and should not be construed as investment advice.
 
 ## Fundamental Analysis
 
-Fundamental Analysis is an overall project analysis with 10 separate aspects that will be evaluated before reaching a final decision. Every element will be rated with a number ranging from 1 to 10, and we will be able to obtain a total score for all aspects.
+Fundamental Analysis is an overall project analysis with 10 separate aspects that will be evaluated before reaching a final decision. Every element will be rated with a number ranging from 1 to 5, and we will be able to obtain a total score for all aspects.
 
 ### List of Aspects
 
