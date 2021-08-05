@@ -33,7 +33,7 @@ Fundamental Analysis is an overall project analysis with 10 separate aspects tha
 
 ## Technical Analysis
 
-Later, we will deliver detailed smart contract audits that will be thoroughly examined and analyzed. This procedure is carried out to uncover mistakes, flaws, and security vulnerabilities in the code in order to recommend improvements and solutions. In general, smart contract audits are required because most contracts deal with financial assets.
+We also deliver detailed smart contract audits that will be thoroughly examined and analyzed. This procedure is carried out to uncover mistakes, flaws, and security vulnerabilities in the code in order to recommend improvements and solutions. In general, smart contract audits are required because most contracts deal with financial assets.
 
 
 
