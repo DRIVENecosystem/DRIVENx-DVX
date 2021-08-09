@@ -14,7 +14,7 @@ DRIVENx was **launched on June 17th 2021**. A **fair-launch** for the community 
 
 **DRIVENx – Starting Supply -** 100,000,000,000,000,000 ****
 
-**DRIVENx –  Supply \(at this moment\) -** 88,000,000,000,000,000
+**DRIVENx –  Supply \(at this moment\) -** 87,000,000,000,000,000
 
 ## **DRIVENx Tokenomics**
 
