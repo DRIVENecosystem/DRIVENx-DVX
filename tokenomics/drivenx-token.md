@@ -36,13 +36,13 @@ DRIVENx is a **deflationary token**, which means that its total supply decreases
 * 10,000,000,000,000,000 **– Burned Initially \(10%\)**
 * 4,000,000,000,000,000 **– Development Wallet \(4.0%\)**
 
-**Mining and staking supply address:** `0x98de08c254597963bc3e024fb477b72b48c5380c`
+**Farming and staking supply address:** `0x98de08c254597963bc3e024fb477b72b48c5380c`
 
 **Development wallet address:** `0xad5284df1ae5d8c860112e8e02e112a9caa7d66f`
 
 **Marketing wallet address:** `0xc00f8776e5331f09f47c062f106c3c98c2a6c30d`
 
-#### **Disclaimer** 
+### **Disclaimer** 
 
 None of these wallets are locked, and we always notify our community in the Telegram group when we withdraw money from the marketing wallet, as well as where the funds will be invested.
 
