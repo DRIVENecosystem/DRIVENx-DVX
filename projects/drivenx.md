@@ -62,9 +62,9 @@ The platform will enable a business to directly pay or receive funds for goods a
 
 ⬜ DRIVENtrade's technical whitepaper release
 
-⬜ Launch DRIVENtrade
-
 ⬜ DRIVENtrade's user interface development
+
+⬜ Launch DRIVENtrade
 
 ⬜ Begin DRIVENtrade's marketing campaigns
 
