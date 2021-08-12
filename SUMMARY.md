@@ -5,12 +5,12 @@
 ## PROJECTS
 
 * [DRIVENx](projects/drivenx.md)
-* [Melon](projects/melon.md)
+* [MELONx](projects/melon.md)
 
 ## TOKENOMICS
 
 * [DRIVENx Token](tokenomics/drivenx-token.md)
-* [Melon Token](tokenomics/melon-token.md)
+* [MELONx Token](tokenomics/melon-token.md)
 
 ## PRODUCTS
 
