@@ -30,6 +30,8 @@ On each transaction we charge 16% of taxes
 
 **MELONx – Starting Supply -** 100,000,000,000 ****
 
+\*\*\*\*
+
 
 
   
