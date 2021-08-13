@@ -6,11 +6,11 @@ description: We can beat breast cancer. Together!
 
 ![](../.gitbook/assets/gitbook-melon.png)
 
-## What is Melon?
+## What is MELONx?
 
-Melon is the second project of the DRIVENecosystem; it is a charity initiative that was created specifically to help women all over the world who are currently battling breast cancer. We sincerely hope they succeed. 
+MELONx is the second project of the DRIVENecosystem; it is a charity initiative that was created specifically to help women all over the world who are currently battling breast cancer. We sincerely hope they succeed. 
 
-## What is the mission of the Melon?
+## What is the mission of the MELONx?
 
 Our mission is to create a cryptocurrency donation platform to assist over 2,500 women in their fight against breast cancer. Development of this application has already begun, and expect to be done by the end of this year. 
 
