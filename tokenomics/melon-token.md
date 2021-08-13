@@ -4,7 +4,7 @@ description: Melon tokenomics & token distribution
 
 # MELONx Token
 
-**Melon \($MLN\)** is a deflationary and community-driven token that aids women all over the world in their fight against breast cancer. It is the DRIVENecosystem's charity token.
+**MELONx \($MLNX\)** is a deflationary and community-driven token that aids women all over the world in their fight against breast cancer. It is the DRIVENecosystem's charity token.
 
 Melon was **launched on** **May 28th 2021.** A **fair-launch** for the community was our priority. Therefore, Melon started with a market cap of only $50,000.
 
