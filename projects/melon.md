@@ -24,7 +24,7 @@ On each transaction, 10 percent of the built-in tokenomics is transferred into a
 
 ## Competitive Advantage
 
-To avoid selling $MLN to make donations, we will build a crypto donations platform where users can donate in BTC, BNB, ETH, and BEP20 tokens. A tiny portion of each transaction will be utilized to purchase $MLN back.
+To avoid selling $MLNX to make donations, we will build a crypto donations platform where users can donate in BTC, BNB, ETH, and BEP20 tokens. A tiny portion of each transaction will be utilized to purchase $MLNX back.
 
 ## Roadmap
 
