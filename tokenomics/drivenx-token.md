@@ -12,10 +12,6 @@ Token holders of the DRIVENprotocol had their tokens migrated in a 1:1 ratio \(o
 
 DRIVENx was **launched on June 17th 2021**. A **fair-launch** for the community was our priority. Therefore, DRIVENx started with a market cap of only $100,000.
 
-**DRIVENx – Starting Supply -** 100,000,000,000,000,000 ****
-
-**DRIVENx –  Supply \(at this moment\) -** 87,000,000,000,000,000
-
 ## **DRIVENx Tokenomics**
 
 DRIVENx is a **deflationary token**, which means that its total supply decreases with each token transaction. As with every transfer, a portion of the transferred amount is burned, added to liquidity, redistributed to holders, and placed in the development wallet.

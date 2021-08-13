@@ -22,6 +22,8 @@ Melon ****is a **deflationary token**, which means that its total supply decreas
 
 On each transaction we charge 16% of taxes
 
+![](../.gitbook/assets/frame-63.jpg)
+
 * 5% added to liquidity pool
 * 5% placed in marketing/charity wallet
 * 6% redistributed to holders 
