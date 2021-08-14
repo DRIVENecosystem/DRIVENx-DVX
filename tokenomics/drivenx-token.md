@@ -4,7 +4,7 @@ description: DRIVENx tokenomics & token distribution
 
 # DRIVENx Token
 
-## What is DRIVENx Token?
+## What is DRIVENx?
 
 **DRIVENx \(DVX\)** token is an updated deflationary version of the DRIVENprotocol token. It is an entirely new smart contract. It is the DRIVENecosystem's primary token. On our DRIVEN branded exchange, DRIVENx grants access to yield farming and staking. 
 

@@ -4,13 +4,15 @@ description: Melon tokenomics & token distribution
 
 # MELONx Token
 
+## What is DRIVENx?
+
 **MELONx \($MLNX\)** is a deflationary and community-driven token that aids women all over the world in their fight against breast cancer. It is the DRIVENecosystem's charity token.
 
 Melon was **launched on** **May 28th 2021.** A **fair-launch** for the community was our priority. Therefore, Melon started with a market cap of only $50,000.
 
 Together with our community we decided to migrate to better and improved contract for the Melon via the Telegram voting pool. On **August 13th we launched a V2 version of the Melon called MELONx.**
 
-## MELONx
+## MELONx Smart Contract
 
 New Melon contract was a significant improvement for Melon because the new contract allowed us to collect funds for marketing and donations in BUSD \(BEP20\), which means that we can make donations to women with breast cancer without crashing the price of the actual Melon, which was preventing us from making regular donations when the price was low. We will also be able to undertake frequent marketing promotions with the new contract. 
 
