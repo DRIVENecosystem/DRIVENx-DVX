@@ -8,7 +8,7 @@ description: Melon tokenomics & token distribution
 
 Melon was **launched on** **May 28th 2021.** A **fair-launch** for the community was our priority. Therefore, Melon started with a market cap of only $50,000.
 
-Together with our community we decided to migrate to better and improved contract for the Melon via the Telegram voting pool. On **August 13th we launched a V2 version of the Melon called MELONx**
+Together with our community we decided to migrate to better and improved contract for the Melon via the Telegram voting pool. On **August 13th we launched a V2 version of the Melon called MELONx.**
 
 ## MELONx
 
