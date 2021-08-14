@@ -37,7 +37,7 @@ On each transaction we charge 16% of taxes
 * 5,000,000,000 **– Added to liquidity \(5.0%\)**
 * 3,000,000,000 **– Development Wallet \(3.0%\)**
 
-**Development wallet address:** 
+**Development wallet address:** `0xc41a989223535abb3b346f5893b51beafde26e12`
 
 **Marketing wallet address:** `0x15c6BFdd8430c349844316EB1405A64E084A6C3a`
 
