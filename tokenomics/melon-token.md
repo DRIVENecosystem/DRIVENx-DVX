@@ -43,6 +43,8 @@ On each transaction we charge 16% of taxes
 
 **Marketing wallet address:** `0x15c6BFdd8430c349844316EB1405A64E084A6C3a`
 
+**MELONx dividend tracker:** `0x0a7cbb30F2F94A576789F249cE2Fb7EB80943B16`
+
 ### **Disclaimer** 
 
 None of these wallets are locked, and we always notify our community in the Telegram group when we withdraw money from the marketing wallet, as well as where the funds will be invested.
