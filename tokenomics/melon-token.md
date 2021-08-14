@@ -4,7 +4,7 @@ description: Melon tokenomics & token distribution
 
 # MELONx Token
 
-## What is DRIVENx?
+## What is MELONx?
 
 **MELONx \($MLNX\)** is a deflationary and community-driven token that aids women all over the world in their fight against breast cancer. It is the DRIVENecosystem's charity token.
 
