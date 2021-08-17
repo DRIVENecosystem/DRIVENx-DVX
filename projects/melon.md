@@ -8,7 +8,7 @@ description: We can beat breast cancer. Together!
 
 ## What is MELONx?
 
-MELONx is the second project of the DRIVENecosystem; it is a charity initiative that was created specifically to help women all over the world who are currently battling breast cancer. We sincerely hope they succeed. 
+MELONx is the second project of the DRIVENecosystem; it is a charity project that was created specifically to help women all over the world who are currently battling breast cancer. We sincerely hope they succeed. 
 
 ## What is the mission of the MELONx?
 
