@@ -34,7 +34,7 @@ On each transaction we charge 16% of taxes
 
 **100,000,000,000  - MELONx – Total Supply**
 
-* 48,000,000,000 **– Migrated to Melon \($MLN\) Holders \(48%\)**
+* 58,000,000,000 **– Migrated to Melon \($MLN\) Holders \(58%\)**
 * 20,000,000,000**– Burned Initially \(20%\)**
 * 5,000,000,000 **– Added to liquidity \(5.0%\)**
 * 3,000,000,000 **– Development Wallet \(3.0%\)**
