@@ -4,7 +4,7 @@ description: We can beat breast cancer. Together!
 
 # MELONx
 
-![](../.gitbook/assets/gitbook-melon.png)
+![](../.gitbook/assets/photo_2021-08-17_18-43-12.jpg)
 
 ## What is MELONx?
 
