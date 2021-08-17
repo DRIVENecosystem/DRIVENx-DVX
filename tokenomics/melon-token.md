@@ -20,7 +20,7 @@ Our objective for the new MELONx contract was to make it more appealing to hold 
 
 ## **MELONx Tokenomics**
 
-Melon ****is a **deflationary token**, which means that its total supply decreases with each token transaction. As with every transfer, a portion of the transferred amount is burned, added to liquidity pool, redistributed to holders, and placed in the charity/marketing wallet. 
+MELONx is a deflationary token since a percentage of the transacted amount is added to the liquidity pool, redistributed to holders in BUSD who have 50,000 MELONx, and placed in the charity/marketing.
 
 On each transaction we charge 16% of taxes
 
@@ -28,7 +28,7 @@ On each transaction we charge 16% of taxes
 
 * **5% added to liquidity pool**
 * **5% placed in marketing/charity wallet**
-* **6% redistributed to holders** 
+* **6% redistributed to holders in BUSD**
 
 ## Supply
 
