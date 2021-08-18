@@ -32,12 +32,12 @@ On each transaction we charge 16% of taxes
 
 ## Supply
 
-**100,000,000,000  - MELONx – Total Supply**
+**100,000,000  - MELONx – Total Supply**
 
-* 58,000,000,000 **– Migrated to Melon \($MLN\) Holders \(58%\)**
-* 20,000,000,000**– Burned Initially \(20%\)**
-* 5,000,000,000 **– Added to liquidity \(5.0%\)**
-* 3,000,000,000 **– Development Wallet \(3.0%\)**
+* 58,000,000 **– Migrated to Melon \($MLN\) Holders \(58%\)**
+* 20,000,000**– Burned Initially \(20%\)**
+* 5,000,000 **– Added to liquidity \(5.0%\)**
+* 3,000,000 **– Development Wallet \(3.0%\)**
 
 **Development wallet address:** `0xc41a989223535abb3b346f5893b51beafde26e12`
 
