@@ -14,7 +14,7 @@ MELONx is the second project of the DRIVENecosystem; it is a charity project tha
 
 Our mission is to create a cryptocurrency donation platform to assist over 2,500 women in their fight against breast cancer. Development of this application has already begun, and expect to be done by the end of this year. 
 
-The cryptocurrency donations platform will be our primary utility case. Because it is constructed on the blockchain, every transaction will be transparent, and people will be able to see that their money is going directly to the individual they want to help. Our primary mission is to assist over 2500 women in their fight against breast cancer.
+The cryptocurrency donations platform will be our primary utility case, since it is constructed on the blockchain, every transaction will be transparent, and people will be able to see that their money is going directly to the individual they want to help. Our primary mission is to assist over 2500 women in their fight against breast cancer.
 
 We're also developing a lottery platform to have some fun with our community while simultaneously helping more ladies with breast cancer. People can put funds into the lottery pool, and one winner will be chosen every 24 hours to receive 80% of the total lottery prize-pool. The rest of the prize-poll \(included inside the lottery pool\) will be donated directly to a breast-cancer cause.
 
