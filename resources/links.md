@@ -22,7 +22,7 @@
 
 ## Melon
 
-**Website**: [https://drivenx.finance/](https://drivenx.finance/)
+**Website**: [https://melontokenbsc.com](https://melontokenbsc.com)
 
 **Twitter**: [https://twitter.com/melontokenbsc](https://twitter.com/melontokenbsc)
 
