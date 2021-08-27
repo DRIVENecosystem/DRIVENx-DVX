@@ -28,7 +28,7 @@ Our goal is to build a strong DeFi ecosystem where individuals can use cryptocur
 
 ## Goals
 
-Our short-term goal is to raise awareness/exposure for the DRIVENecosystem projects: DRIVENx \(DVX\), Melon Token \($MLN\), and DRIVENsecurity \(Fundamental and technical analysis for DeFi projects\); and to execute on our promises every day in order to earn greater trust and authenticity.
+Our short-term goal is to raise awareness/exposure for the DRIVENecosystem projects: DRIVENx \(DVX\), MELONx \($MLNX\), and DRIVENsecurity \(Fundamental and technical analysis for DeFi projects\); and to execute on our promises every day in order to earn greater trust and authenticity.
 
 Our long-term goal is to be a group of legal businesses with headquarters in the United States, Croatia, and Romania that transform the way people use cryptocurrency \(not just for profit\).
 
