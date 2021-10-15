@@ -1,12 +1,12 @@
 # DRIVENecosystem
 
-![](.gitbook/assets/driven-ecosystem-1-.png)
+![](<.gitbook/assets/driven-ecosystem (1).png>)
 
 ## Background
 
-Blockchain networks enable the quick, secure, transfer, and production of digital products, as well as the storage and execution of tamper-proof programs capable of managing digital assets. Once deployed on-chain, these programs cannot be modified and are open to everyone with access to the chain. They execute depending on the defined parameters and interactions \(transactions\) and are verified by the blockchain's consensus process. These features enable anonymous parties to enter into legally enforceable digital contracts known as smart contracts.
+Blockchain networks enable the quick, secure, transfer, and production of digital products, as well as the storage and execution of tamper-proof programs capable of managing digital assets. Once deployed on-chain, these programs cannot be modified and are open to everyone with access to the chain. They execute depending on the defined parameters and interactions (transactions) and are verified by the blockchain's consensus process. These features enable anonymous parties to enter into legally enforceable digital contracts known as smart contracts.
 
-The Binance Smart Chain \(BSC\) powers DRIVENx smart contract, which is a rich and expanding digital asset ecosystem driven by Binance DEX, the leading decentralized exchange.
+The Binance Smart Chain (BSC) powers DRIVENx smart contract, which is a rich and expanding digital asset ecosystem driven by Binance DEX, the leading decentralized exchange.
 
 Contain low transaction costs as low as one cent and high performance, with a network capable of creating a block every three seconds.
 
@@ -18,7 +18,7 @@ Contain low transaction costs as low as one cent and high performance, with a ne
 
 ## Mission
 
-DRIVENecosystem \(or just DRIVEN\) is a small start-up that aims to integrate cryptocurrencies into everyday life through the use of smart applications. Our primary goal is to make cryptocurrency as simple to use as FIAT.
+DRIVENecosystem (or just DRIVEN) is a small start-up that aims to integrate cryptocurrencies into everyday life through the use of smart applications. Our primary goal is to make cryptocurrency as simple to use as FIAT.
 
 ## Philosophy and vision
 
@@ -28,11 +28,10 @@ Our goal is to build a strong DeFi ecosystem where individuals can use cryptocur
 
 ## Goals
 
-Our short-term goal is to raise awareness/exposure for the DRIVENecosystem projects: DRIVENx \(DVX\), MELONx \($MLNX\), and DRIVENsecurity \(Fundamental and technical analysis for DeFi projects\); and to execute on our promises every day in order to earn greater trust and authenticity.
+Our short-term goal is to raise awareness/exposure for the DRIVENecosystem projects: DRIVENx (DVX), MELONx ($MLNX), and DRIVENsecurity (Fundamental and technical analysis for DeFi projects); and to execute on our promises every day in order to earn greater trust and authenticity.
 
-Our long-term goal is to be a group of legal businesses with headquarters in the United States, Croatia, and Romania that transform the way people use cryptocurrency \(not just for profit\).
+Our long-term goal is to be a group of legal businesses with headquarters in the United States, Croatia, and Romania that transform the way people use cryptocurrency (not just for profit).
 
 ## Legal structure
 
-DRIVENecosystem is not yet a legitimate business model. We intend to form an LLC before the end of the current calendar year \(2021\).
-
+DRIVENecosystem is not yet a legitimate business model. We intend to form an LLC before the end of the current calendar year (2021).

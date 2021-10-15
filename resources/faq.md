@@ -24,15 +24,15 @@ When we launch our DRIVENtrade platform, it will function as a marketplace for b
 
 DRIVENxchange is a DRIVEN-branded DEX designed specifically for tokens created by the DRIVENteam; the main token used on this exchange is DRIVENx.
 
-DRIVENxchange, like PancakeSwap, has a slew of DeFi functions. DRIVENxhcange is an automated market maker \(AMM\) that allows users to trade cryptocurrency without the need for an order book. DRIVENxchange users may earn money via staking, contributing to liquidity pools, and yield farming.
+DRIVENxchange, like PancakeSwap, has a slew of DeFi functions. DRIVENxhcange is an automated market maker (AMM) that allows users to trade cryptocurrency without the need for an order book. DRIVENxchange users may earn money via staking, contributing to liquidity pools, and yield farming.
 
 ## What is liquidity mining?
 
-Liquidity mining, also known as yield farming, is the act of providing liquidity via cryptocurrencies to decentralized exchanges \(DEXs\). Since the primary goal of an exchange is to be liquid, DEXs seek to reward users willing to bring capital to their platform.
+Liquidity mining, also known as yield farming, is the act of providing liquidity via cryptocurrencies to decentralized exchanges (DEXs). Since the primary goal of an exchange is to be liquid, DEXs seek to reward users willing to bring capital to their platform.
 
 ## What is staking?
 
-Staking is the process of actively engaging in transaction validation on a proof-of-stake \(PoS\) blockchain \(similar to crypto mining\). Anyone with a minimum needed amount of a DRIVENx can validate transactions and receive Staking rewards on these blockchains.
+Staking is the process of actively engaging in transaction validation on a proof-of-stake (PoS) blockchain (similar to crypto mining). Anyone with a minimum needed amount of a DRIVENx can validate transactions and receive Staking rewards on these blockchains.
 
 ## **How to use and connect MetaMask to BSC and DRIVENxchange?**
 
@@ -44,18 +44,22 @@ When your wallet is properly configured, launch the **DRIVENxchange** and select
 
 ## How do I make DRIVENx visible in TrustWallet?
 
-You must add DRIVENx token to TrustWallet as a custom token in order to see the amount of DRIVENx tokens you own.  
-  
+You must add DRIVENx token to TrustWallet as a custom token in order to see the amount of DRIVENx tokens you own.\
+\
 Here is our guide on how to import DRIVENx as a custom token in TrustWallet.
 
-{% file src="../.gitbook/assets/rotatorv2\_4.mp4" caption="TrustWallet Custom Token Guide" %}
+{% file src="../.gitbook/assets/rotatorv2_4.mp4" %}
+TrustWallet Custom Token Guide
+{% endfile %}
 
 ## **Does DRIVENx have a whitepaper?**
 
-It is presently under production, and we will tell you via the website once it is complete! Meanwhile, you may read our litepaper here:  
+It is presently under production, and we will tell you via the website once it is complete! Meanwhile, you may read our litepaper here:\
 
 
-{% file src="../.gitbook/assets/drivenx-litepaper.pdf" caption="DRIVENx - litepaper" %}
+{% file src="../.gitbook/assets/DRIVENx - litepaper.pdf" %}
+DRIVENx - litepaper
+{% endfile %}
 
 ## Will DRIVENx be listed on other exchanges?
 
@@ -64,4 +68,3 @@ In the near future, DRIVENx will most likely be listed on additional exchanges. 
 ## How to use DRIVENxchange?
 
 Our YouTube channel will be updated on a regular basis with fresh instructions, so be sure to subscribe. If you have any further questions, please join us on Telegram or Discord.
-

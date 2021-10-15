@@ -2,7 +2,7 @@
 
 ## DRIVENx
 
-**Website**: [https://drivenx.finance/](https://drivenx.finance/)
+**Website**: [https://drivenx.finance/](https://drivenx.finance)
 
 **Twitter**: [https://twitter.com/DRIVENprotocol](https://twitter.com/DRIVENprotocol)
 
@@ -32,5 +32,4 @@
 
 **Facebook:** [https://www.facebook.com/melontoken](https://www.facebook.com/melontoken)
 
-![](../.gitbook/assets/photo_2021-06-21_19-00-20.jpg)
-
+![](../.gitbook/assets/photo\_2021-06-21\_19-00-20.jpg)

@@ -14,11 +14,10 @@
 
 ## PRODUCTS
 
-* [DRIVENxchange](products/drivenxchange.md)
+* [DRIVENswap](products/drivenxchange.md)
 * [DRIVENsecurity](products/drivensecurity.md)
 
 ## RESOURCES
 
 * [FAQ](resources/faq.md)
 * [Links](resources/links.md)
-

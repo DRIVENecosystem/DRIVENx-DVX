@@ -6,53 +6,52 @@ description: DRIVENx tokenomics & token distribution
 
 ## What is DRIVENx?
 
-**DRIVENx \(DVX\)** token is an updated deflationary version of the DRIVENprotocol token. It is an entirely new smart contract. It is the DRIVENecosystem's primary token. On our DRIVEN branded exchange, DRIVENx grants access to yield farming and staking. 
+**DRIVENx (DVX)** token is an updated version of the DRIVENprotocol token. It is an entirely new smart contract refreshd with a numerous changes. It is the DRIVENecosystem's primary token. On DRIVENswap, DRIVENx grants access to yield farming and staking. 
 
-Token holders of the DRIVENprotocol had their tokens migrated in a 1:1 ratio \(only tokens they had before the 1st of June\)
-
-DRIVENx was **launched on June 17th 2021**. A **fair-launch** for the community was our priority. Therefore, DRIVENx started with a market cap of only $100,000.
+DRIVENx was** launched on August 26th 2021**. A **fair-launch** for the community was our priority. Therefore, DRIVENx started with a market cap of only $700,000.
 
 ## **DRIVENx Tokenomics**
 
-DRIVENx is a **deflationary token**, which means that its total supply decreases with each token transaction. As with every transfer, a portion of the transferred amount is burned, added to liquidity, redistributed to holders, and placed in the development wallet.
+DRIVENx is a token with tokenomics, which means that each transaction is taxed. A portion of the transferred amount is added to liquidity, rewarded to holders in BUSD (BEP20), and placed in the development/marketing wallet, as with every transfer.
 
-![](../.gitbook/assets/group-71.jpg)
+* **4.0% added to liquidity**
+* **4.0% BUSD dividends**
+* **4.0% placed in development wallet**
 
-* **3.5% added to liquidity**
-* **2.0% burned**
-* **1.0% redistributed to holders**
-* **1.0% placed in development wallet**
+![](<../.gitbook/assets/Group 75 (1).jpg>)
 
 ## Supply
 
-**100,000,000,000,000,000 - DRIVENx – Total Supply**
+**250,000,000 - DRIVENx – Total Supply**
 
-* 63,000,000,000,000,000 **– Migrated to DRIVENprotocol Holders \(63%\)**
-* 19,000,000,000,000,000 **– Liquidity Mining and Staking Supply \(19%\)**
-* 12,000,000,000,000,000 **– Burned Initially \(12%\)**
-* 4,000,000,000,000,000 **– Development Wallet \(4.0%\)**
+* 136,000,000 **– Migrated to DRIVENprotocol Holders (68%)**
+* 50,000,000** – Liquidity Mining and Staking Minting **
+* 50,000,000** –  Burned Initially (25%)**
+* 7,000,000 **-  Development Wallet (3.5%)**
+* 5,000,000** - Added to Liquidity (2.5%)**
 
-**Farming and staking supply address:** `0x98de08c254597963bc3e024fb477b72b48c5380c`
+****
 
-**Development wallet address:** `0xad5284df1ae5d8c860112e8e02e112a9caa7d66f`
+**Farming and staking address: **`0xbf26959569139ffecd74d2293a0acb501d2a2b8e`
 
-**Marketing wallet address:** `0xc00f8776e5331f09f47c062f106c3c98c2a6c30d`
+**Development wallet address: **`0x54d8c0964f9613f41379497cb0d32948d69fdad1`
 
-### **Disclaimer** 
+**Marketing wallet address: **`0x72d35dE20F95c764586C7b6938Eeb7A2FED7d3d7`
+
+### **Disclaimer **
 
 None of these wallets are locked, and we always notify our community in the Telegram group when we withdraw money from the marketing wallet, as well as where the funds will be invested.
 
-\*\*\*\*
+****
 
-\*\*\*\*
-
-
+****
 
 
 
-\*\*\*\*
 
- ****
 
-\*\*\*\*
+****
 
+** **
+
+****

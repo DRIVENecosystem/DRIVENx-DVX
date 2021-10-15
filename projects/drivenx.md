@@ -4,11 +4,11 @@ description: Made by humans for humans
 
 # DRIVENx
 
-![](../.gitbook/assets/photo_2021-06-21_18-59-42.jpg)
+![](../.gitbook/assets/photo\_2021-06-21\_18-59-42.jpg)
 
 ## What is DRIVENx?
 
-DRIVENx \(DVX\) is a BEP20 token released on the Binance Smart Chain Network in June of 2021. Our focus is on bridging the gaps between cryptocurrency and standard FIAT-based business as usual.
+DRIVENx (DVX) is a BEP20 token released on the Binance Smart Chain Network in June of 2021. Our focus is on bridging the gaps between cryptocurrency and standard FIAT-based business as usual.
 
 DRIVENx is not just merely a token with utility, we are a movement! We are a community, a community of contributors and collaborators, a community that expects more from the crypto space!
 
@@ -71,4 +71,3 @@ The platform will enable a business to directly pay or receive funds for goods a
 ⬜ Implement the DRIVENtrade advertising function
 
 ⬜ Pitching investors
-
